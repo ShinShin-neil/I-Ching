@@ -1,0 +1,13 @@
+[\n  {\n    "id": 1,\n    "name": "乾",\n    "symbol": "䷀",\n    "element": "天",\n    "palace": "乾宮金本宮",\n    "meaning": "元亨。利貞。",\n    "yaoCI": [\n      "初九：潛龍，勿用。",\n      "九二：見龍在田，利見。",\n      "九三：君子終日乾乾，耳目之所。",\n      "九四：或躍在淵，無咎。",\n      "九五：飛龍在天，利見。",\n      "上九：亢龍有悔。"\n    ],\n    "exchangeHexagram": "未",\n    "errorHexagram": "錯1",\n    "complementHexagram": "綜卦1",\n    "mutualHexagrams": {\n      "1234": "兌卦",\n      "2345": "震卦",\n      "3456": "巽卦",\n      "12345": "坤卦",\n      "23456": "艮卦"\n    },\n    "changeHexagrams": {\n      "1stLine": "",
+      "2ndLine": "",
+      "3rdLine": "",
+      "4thLine": "",
+      "5thLine": "",
+      "6thLine": ""
+    },\n    "notes": ""\n  },\n  {\n    "id": 2,\n    "name": "坤",\n    "symbol": "䷁",\n    "element": "地",\n    "palace": "坤宮金本宮",\n    "meaning": "亨。柔順。",\n    "yaoCI": [\n      "初六：潛龍，勿用。",\n      "九五：飛龍在天，利見。",\n      "上六：亢龍有悔。"\n    ],\n    "exchangeHexagram": "已",\n    "errorHexagram": "錯2",\n    "complementHexagram": "綜卦2",\n    "mutualHexagrams": {\n      "1234": "兌卦",\n      "2345": "震卦",\n      "3456": "巽卦",\n      "12345": "坤卦",\n      "23456": "艮卦"\n    },\n    "changeHexagrams": {\n      "1stLine": "",
+      "2ndLine": "",
+      "3rdLine": "",
+      "4thLine": "",
+      "5thLine": "",
+      "6thLine": ""
+    },\n    "notes": ""\n  }\n]
