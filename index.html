@@ -9,20 +9,29 @@
 <body>
     <header>
         <h1>易經六十四卦查詢</h1>
+        <div class="search-section">
+            <input type="text" id="searchBox" placeholder="搜尋卦名或編號...">
+            <button id="searchBtn">查詢</button>
+        </div>
     </header>
+    
     <main>
-        <section>
-            <input type="text" id="search-input" placeholder="查詢卦名或編號">
-            <button id="search-button">查詢</button>
+        <section class="hexagram-grid" id="hexagramGrid">
+            <!-- 64個卦象按鈕將在此生成 -->
         </section>
+        
         <section id="results">
             <h2>查詢結果</h2>
-            <div id="results-area"></div>
+            <div id="hexagramInfo">
+                <!-- 卦象詳細信息將在此顯示 -->
+            </div>
         </section>
     </main>
+    
     <footer>
         <p>&copy; 2026 I-Ching Hexagrams Lookup. All rights reserved.</p>
     </footer>
+    
     <script src="script.js"></script>
 </body>
 </html>
